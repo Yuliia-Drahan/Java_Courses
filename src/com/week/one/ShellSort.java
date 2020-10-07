@@ -2,7 +2,7 @@ package com.week.one;
 
 public class ShellSort {
     public static void main(String[] args) {
-        int[] array = {30, 2, 10, 4, 6};
+        int[] array = {30, 2, 10, 4, 6, 22};
         int length = array.length;
         int i,j;
         for (i=0; i<length; i++){
