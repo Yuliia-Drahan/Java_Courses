@@ -4,7 +4,7 @@ public class SquareRoot {
     public static void main(String[] args) {
         double a = 3;
         double b = 2.5;
-        double c = -0.5;
+        double c = 0.5;
         double D = b*b-4*a*c;
         if (D>0 & (a!=0 & c!=0)) {
             double x1 = (-b + Math.sqrt(D))/(2*a);
